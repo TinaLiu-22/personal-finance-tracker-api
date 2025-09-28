@@ -1,4 +1,4 @@
 package com.tina.personalfinancetrackerapi.transaction;
 
-public interface TransactionServiceApi {
+public interface TransactionApi {
 }
